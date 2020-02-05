@@ -17,20 +17,20 @@
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "helmet": "^3.21.2",
-    "knex": "^0.16.3",
+    "knex": "^0.19.5",
     "morgan": "^1.9.1",
-    "pg": "^7.8.0",
+    "pg": "^7.18.1",
     "treeize": "^2.1.2",
-    "xss": "^1.0.3"
+    "xss": "^1.0.6"
   },
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
-    "nodemon": "^1.18.9",
-    "postgrator-cli": "^3.1.0",
-    "supertest": "^3.3.0"
+    "nodemon": "^1.19.4",
+    "postgrator-cli": "^3.3.0",
+    "supertest": "^3.4.2"
   },
   "contributors": [
     "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
